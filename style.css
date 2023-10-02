@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans&family=Ubuntu:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+
+}
+body{
+    background-color: black;
+}
+
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+}
+h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #999999;
+}
+
+.titolo{
+    color: #f7d7c8;
+}
+
+.my-img {
+    border-radius: 20%;
+}
+
+.h:hover{
+    color:#f7d7c8 !important;
+    cursor: pointer;
+}
+.l {
+    letter-spacing: 2px;
+}
+
+
+.myb:hover {
+    color:black !important;
+    background-color: white !important;
+    cursor: pointer;
+}
+.naso {
+    width: 69%;
+}
